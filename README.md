@@ -26,8 +26,7 @@ I am a Full Stack Web Developer with good knowledge of Algorithms and Data Struc
 
 # Any Queries or Suggestions ?! 🤔
 - 💬 Ask me about anything and everything! 
-- 📫 How to reach me: message me on [Linkedin](https://www.linkedin.com/in/cezain-majeed-56a64a1a5/) or drop a mail [here](mailto:cezainmajeed0713
-- @gmail.com)
+- 📫 How to reach me: message me on [Linkedin](https://www.linkedin.com/in/cezain-majeed-56a64a1a5/) or drop a mail [here](mailto:cezainmajeed0713@gmail.com)
 - 💬 Ping Me about #DataStructures, #Algoritms, #OOPs, #C++, #JavaScript, #NodeJS, #MongoDB, #SQL and anything else you want to ask. I'll try my best to help you.😊❤   
 
 
