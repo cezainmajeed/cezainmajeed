@@ -4,6 +4,4 @@
 ---
 ## Hi there ,           
 
-I'm Cezain Majeed, 3rd year Undergraduate student doing my major in Electrical Engineering from NIT Jamshedpur.
-
-I am a Full Stack Web and Blockchain Developer with good knowledge of Algorithms and Data Structures.
+I'm Cezain Majeed, final year Undergraduate student doing my major in Electrical Engineering from NIT Jamshedpur.
